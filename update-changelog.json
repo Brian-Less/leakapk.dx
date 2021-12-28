@@ -1,8 +1,8 @@
 {
-  "latestVersion": "LeakDX 1.0",
-  "latestVersionCode": 2,
+  "latestVersion": "LeakDX 1.1",
+  "latestVersionCode": 3,
   "url": "https://github.com/Brian-Less/leakapk.dx/releases/latest/download/LeakDX.apk",
   "releaseNotes": [
-    "- ทดสอบการแก้ไขบั๊กเมื่อมีการเล่นเสียงใกล้แห่งน้ำ"
+    "- ปรับเปลี่ยนตำแหน่งการอ่านไฟล์ตั้งค่า"
   ]
 }
