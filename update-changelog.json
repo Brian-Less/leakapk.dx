@@ -1,8 +1,8 @@
 {
   "latestVersion": "LeakDX 1.2",
-  "latestVersionCode": 4,
+  "latestVersionCode": 5,
   "url": "https://github.com/Brian-Less/leakapk.dx/releases/latest/download/APK-DX.apk",
   "releaseNotes": [
-    "- ตัวเกมสามารถเข้าเซิร์ฟที่มีรหัสผ่านได้ทันที เนื่องจากเข้าผ่าน API KEY"
+    "- เสียงไมค์และลำโพงปรับตั้งจากสูงสุด 45 เป็น 100"
   ]
 }
