@@ -3,6 +3,7 @@
   "latestVersionCode": 5,
   "url": "https://github.com/Brian-Less/leakapk.dx/releases/latest/download/APK-DX.apk",
   "releaseNotes": [
-    "- เสียงไมค์และลำโพงปรับตั้งจากสูงสุด 45 เป็น 100"
+    "- เสียงไมค์และลำโพงปรับตั้งจากสูงสุด 45 เป็น 100",
+    "- แก้ไขบั๊กข้อความ Load texture failed ใน leaklog.txt"
   ]
 }
