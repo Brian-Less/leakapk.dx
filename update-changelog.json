@@ -1,9 +1,8 @@
 {
-  "latestVersion": "LeakDX 1.2",
-  "latestVersionCode": 5,
+  "latestVersion": "LeakDX 1.3",
+  "latestVersionCode": 6,
   "url": "https://github.com/Brian-Less/leakapk.dx/releases/latest/download/APK-DX.apk",
   "releaseNotes": [
-    "- เสียงไมค์และลำโพงปรับตั้งจากสูงสุด 45 เป็น 100",
-    "- แก้ไขบั๊กข้อความ Load texture failed ใน leaklog.txt"
+    "- แก้บั๊กตั้งค่าตำแหน่งปุ่มไม่ได้"
   ]
 }
